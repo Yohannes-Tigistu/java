@@ -1,0 +1,3 @@
+#ignore all .class and .zip files
+*.class
+*.zip
